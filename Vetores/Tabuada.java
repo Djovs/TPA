@@ -8,7 +8,7 @@ public class Tabuada {
 		a = new int [TAM];
 		
 		for (i=0;i<TAM;i++) {
-			System.out.println("Entre com o "+(i+1)+"ï¿½ nï¿½mero: ");
+			System.out.println("Entre com o "+(i+1)+"º número: ");
 			a[i]=in.nextInt();
 			
 			for(j=1;j<=10;j++) {
